@@ -1,6 +1,6 @@
-## This brief was upploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
+## This brief was uploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
 
-## The kaggle workbook link (Giithub isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
+## The kaggle workbook link (Github isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
 
 # Title: Fraud Detection Model using Categorical Features 
 
