@@ -8,11 +8,10 @@ catboost model: 73% accurate
 
 In all it appears that most of our models have similar accuracy and F1 scores, therefore any of them can be used to classify fradulent transactions. That being said there's always room for improvement and with more compute and newer algorithims we will be able to get better
 
-### This brief was uploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
+ This brief was uploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
+ The kaggle workbook link (Github isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
 
-### The kaggle workbook link (Github isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
-
-# Title: Fraud Detection Model using Categorical Features 
+# Project Brief 
 
 Overview: 
 
