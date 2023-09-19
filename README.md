@@ -1,10 +1,18 @@
-## This brief was uploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
 
-## The kaggle workbook link (Github isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
+# Outcome:
+Through our various approach we were able to develop three models with accuracies around 73% at identifying both fraudulent and non fraudulent cases with an f1 score of 73 also
+
+Plain logistic regression classifier : 73% accurate
+Xgb classifier: 73% accurate
+catboost model: 73% accurate
+
+In all it appears that most of our models have similar accuracy and F1 scores, therefore any of them can be used to classify fradulent transactions. That being said there's always room for improvement and with more compute and newer algorithims we will be able to get better
+
+### This brief was uploaded here also if you need the file = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/Project%20summary%20of%20thoughts.pdf
+
+### The kaggle workbook link (Github isnt able to run some vizulizations on the site) = https://www.kaggle.com/code/jacker01/main-submission-data-science
 
 # Title: Fraud Detection Model using Categorical Features 
-
-  
 
 Overview: 
 
@@ -44,18 +52,18 @@ This approach trains an autoencoder which is a feed forward network whose input 
 
  
 
-Approach 4- Ridge regression and ridge search: With this model we got comparable results to the first two, it was 70% accurate at identifying both legitimate and fraudulent transactions. 
+Approach 4- Ridge regression and ridge search: With this model we got comparable results to the first two, it was 73% accurate at identifying both legitimate and fraudulent transactions. 
 
-The model has an f1 score of 70. 
+The model has an f1 score of 74. 
 
  
+Approach 5- CatBoost model:  This model gave similar results to the decision tree moddel with an accuracy of 73% and f1 score of 73 also. 
 
-Approach 5- CatBoost model:  This model gave similar results to the decision tree moddel with an accuracy of 50% and f1 score of 50 also. 
-
-From our trials the most efficient models were the xgb classifier using grid search and the plain regression classifier both having accuracies of 70% and 71% and f1 scores of 70 and 71 each.  
+In all it appears that most of our models have similar accuracy and F1 scores, therefore any of them can be used to classify fradulent transactions. That being said there's always room for improvement and with more compute and newer algorithims we will be able to get better
+ 
 
 Conclusion: 
 
-In conclusion, this data science project focused on developing a fraud detection model based on categorical features. Despite the absence of clear predictors in the categorical columns, our model, which included data scaling and dimensionality reduction, demonstrated a promising accuracy rate of 71% in identifying both legitimate and fraudulent transactions. Further refinements and enhancements can be explored to improve model performance and adapt to evolving fraud patterns. 
+In conclusion, this data science project focused on developing a fraud detection model based on categorical features. Despite the absence of clear predictors in the categorical columns, our model, which included data scaling and dimensionality reduction, demonstrated a promising accuracy rate of 73% in identifying both legitimate and fraudulent transactions.
 
  
