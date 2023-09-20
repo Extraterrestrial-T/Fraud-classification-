@@ -1,14 +1,12 @@
+### Links to parts of project
+* Kaggle note book **(Contains all code and vizualizations)** = https://www.kaggle.com/code/jacker01/main-submission-data-science
+* Project Brief = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/data%20science%20breif.docx
 # <p align="center">Project Name : Fraud Detection Model using Categorical Features</p>
 ##  <p align="center">Team Name - HIT</p>
 
 <p align="center">
   <img src="https://github.com/Extraterrestrial-T/Fraud-classification-/assets/103042427/df88c02b-2429-4b8b-8fff-510281698116" alt="Image Description">
 </p>
-
-
-### Links to parts of project
-* Kaggle note book **(Contains all code and vizualizations)** = https://www.kaggle.com/code/jacker01/main-submission-data-science
-* Project Brief = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/data%20science%20breif.docx
 
 #  <p align="center">About Project</p>
 ## Overview
