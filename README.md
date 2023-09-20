@@ -19,7 +19,7 @@
 * [Model Building](#build)
 
 ## <a name='Summary'></a>Summary of Outcome
-Most of our models have similar accuracy and F1 scores, therefore any of them can be used to classify fradulent transactions. 
+We were able to develop four models withsimilar accuracy and F1 scores, therefore any of them can be used to classify fradulent transactions. 
 The models : 
 
 * **Plain logistic regression classifier** :
