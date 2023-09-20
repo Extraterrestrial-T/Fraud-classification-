@@ -8,7 +8,7 @@
 
 ### Links to parts of project
 * Kaggle note book **(Contains all code and vizualizations)** = https://www.kaggle.com/code/jacker01/main-submission-data-science
-* Project Brief =
+* Project Brief = https://github.com/Extraterrestrial-T/Fraud-classification-/blob/main/data%20science%20breif.docx
 
 #  <p align="center">About Project</p>
 ## Overview
