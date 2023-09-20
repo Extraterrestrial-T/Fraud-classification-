@@ -26,7 +26,7 @@ The models :
 With this model we were able to achieve **precision of 73%**  at identifying fraud cases **Recall of 74%** and **Accuracy of about 74% at identifying fraud and non fraud cases**.
 
 * **Xgb Classifier** :
-With this model we also achieved similar results **precision of 74%**  at identifying fraud cases **Recall of 73%** and **Accuracy of about 73% at identifying fraud and non fraud cases%**.
+With this model we also achieved similar results **precision of 74%**  at identifying fraud cases **Recall of 73%** and **Accuracy of about 73% at identifying fraud and non fraud cases**.
 
 * **Plain decision tree classifier** :
 We also had similar results with an **Accuracy of 73%**.
