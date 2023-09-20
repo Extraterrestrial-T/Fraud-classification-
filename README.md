@@ -45,15 +45,15 @@ With this model we also had similar results with it being **73% accurate**.
 we chose a CatBoost classifier, due to its ability in handling categorical data and delivering high-quality predictions. CatBoost's innovative approach to gradient boosting minimizes the need for extensive data preprocessing, allowing us to focus on the core of our fraud detection task.
 We also had similar results with an accuracy of **73%** and similar f1 score.
 
-## <a name="Overview"></a> Project About: 
+## <a name='Overview'></a> Project About: 
 
 In this data science project, we aimed to develop a fraud detection model using categorical features to identify fraudulent and non-fraudulent transactions. The project involved analyzing the distribution of fraud and non-fraud cases across categorical columns, scaling the data using Standard Scaler, applying dimensionality reduction techniques, and building a classification model. 
 
-## <a name="explore"></a>Data Exploration: 
+## <a name='explore'></a>Data Exploration: 
 
 During the initial data exploration phase, we observed that fraudulent cases appeared to be uniformly distributed among the various classes in the categorical columns. There were no clear or glaring predictors that could easily distinguish fraudulent from non-fraudulent transactions. Surprisingly, a similar uniform distribution was observed for non-fraudulent cases. 
 
-## <a name="process"></a>Data Preprocessing: 
+## <a name='process'></a>Data Preprocessing: 
 To prepare the data for modeling, we performed the following preprocessing steps: 
 
 * Data preparation and categorical preprocessing with Target Encoding: we created a small sample from the entire dataset to fit our encoding model. This is to prevent data leakage.  
@@ -62,7 +62,7 @@ To prepare the data for modeling, we performed the following preprocessing steps
 
 * Dimensionality Reduction: We applied dimensionality reduction techniques to reduce the complexity of the dataset while retaining as much information as possible. This step helped to mitigate the curse of dimensionality and improve model performance. 
 
-## <a name="build"></a>Model Building: 
+## <a name='build'></a>Model Building: 
 
 * Approach 1- 
 **Plain logistic regression classifier** :
