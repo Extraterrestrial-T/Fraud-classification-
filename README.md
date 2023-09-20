@@ -58,7 +58,7 @@ To prepare the data for modeling, we performed the following preprocessing steps
 
 * Approach 1- 
 **Plain logistic regression classifier** :
-We chose to use logistic regression in our fraud classification project because of itsit's its simplicity and efficiency, align perfectly with the demands of real-time fraud detection. Its interpretable nature facilitates clear insight into the factors influencing fraudulent activities.
+We chose to use logistic regression in our fraud classification project because of its simplicity and efficiency, align perfectly with the demands of real-time fraud detection. Its interpretable nature facilitates clear insight into the factors influencing fraudulent activities.
 In terms of data preprocessing, we employed Standard Scaler to standardize feature scales, ensuring uniformity across our dataset. Additionally, Principal Component Analysis (PCA) was leveraged for dimensionality reduction, enhancing computational efficiency and preventing overfitting.
 With this model we were able to achieve **precision of 73%**  at identifying fraud cases **Recall of 74%** and **Accuracy of about 74% at identifying fraud and non fraud cases%**.
 
@@ -75,7 +75,7 @@ We also had similar results with an **Accuracy of 73%**
 
 * Approach 4- 
 **Ridge regression classifier and grid search** :
-We used Ridge Regression because of it's regularization properties. Ridge Regression offers us a balanced blend of simplicity and flexibility, allowing us to navigate the intricacies of fraud detection effectively.
+We used Ridge Regression because of its regularization properties. Ridge Regression offers us a balanced blend of simplicity and flexibility, allowing us to navigate the intricacies of fraud detection effectively.
 To optimize our model's performance, we iterated over various values in search for the optimal alpha parameter, a critical component of Ridge Regression's regularization. Our iterative approach involved evaluating various alpha values to identify the best-performing configuration.
 With this model we also had similar results with it being **73% accurate**.
 
