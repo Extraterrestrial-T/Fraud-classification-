@@ -23,7 +23,7 @@ Most of our models have similar accuracy and F1 scores, therefore any of them ca
 The models : 
 
 * **Plain logistic regression classifier** :
-With this model we were able to achieve **precision of 73%**  at identifying fraud cases **Recall of 74%** and **Accuracy of about 74% at identifying fraud and non fraud cases%**.
+With this model we were able to achieve **precision of 73%**  at identifying fraud cases **Recall of 74%** and **Accuracy of about 74% at identifying fraud and non fraud cases**.
 
 * **Xgb Classifier** :
 With this model we also achieved similar results **precision of 74%**  at identifying fraud cases **Recall of 73%** and **Accuracy of about 73% at identifying fraud and non fraud cases%**.
@@ -66,7 +66,7 @@ With this model we were able to achieve **precision of 73%**  at identifying fra
 **Xgb Classifier** :
 We chose to use a XGBoost classifier in our fraud classification project to try achieve optimal performance. XGBoost, a powerful ensemble learning algorithm, offers remarkable versatility and efficiency, making it an excellent choice for intricate tasks like fraud detection.
 To fine-tune our model, we diligently applied both random search and grid search hyperparameter optimization techniques. Remarkably, both methods yielded comparable results, Showing how robust our model's parameter settings are.
-With this model we also achieved similar results **precision of 74%**  at identifying fraud cases **Recall of 73%** and **Accuracy of about 73% at identifying fraud and non fraud cases%**.
+With this model we also achieved similar results **precision of 74%**  at identifying fraud cases **Recall of 73%** and **Accuracy of about 73% at identifying fraud and non fraud cases**.
 
 * Approach 3-
 **Plain decision tree classifier** :
